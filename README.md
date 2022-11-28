@@ -2,7 +2,15 @@
 
 ## Getting Started
 
-Etant débutant en REACT JS
-le test a été réalisé à partir d'un tuto sur le net.
+Le test a été réalisé à partir d'un tuto sur le net.
 
-## Installation
+## bugs
+
+Une erreur de typage subsiste
+clicker sur la croix en haut à droite de la fenêtre navigateur pour fermer la fenêtre de notification
+Ce bug à été corrigé par un ami mais j'ai laissé la version que j'ai realisé seul.
+
+## installation
+
+npm run install
+npm run start
