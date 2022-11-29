@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Le test a été réalisé à partir d'un tuto sur le net.
+Etant débutant en ReactJs, pour réaliser ce test je me suis aidé du net.
 
 ## bugs
 
